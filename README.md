@@ -41,7 +41,7 @@ The following ML algorithms were trained and evaluated:
 
 ###  Best Performing Model: **Gradient Boosting Regressor**
 
-### Run Streamlit App
+### Run Streamlit App - https://household-energy-prediction-gzpnx6jburbbmpdoqj93ea.streamlit.app/
 
 How to Use the Web App
 
